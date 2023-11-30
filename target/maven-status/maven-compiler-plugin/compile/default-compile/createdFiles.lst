@@ -1,0 +1,12 @@
+lippia\web\constants\ShopConstans.class
+lippia\web\constants\LoginConstans.class
+lippia\web\steps\loginStep.class
+lippia\web\reporters\TestManagerReporter.class
+lippia\web\services\GoogleSearchResultService.class
+lippia\web\services\AutomationPracticeService.class
+lippia\web\steps\AutomationPracticeStep.class
+lippia\web\steps\GoogleSearchSteps.class
+lippia\web\services\LoginService.class
+lippia\web\constants\GoogleConstants.class
+lippia\web\reporters\CucumberReporter.class
+lippia\web\services\GoogleHomeService.class
